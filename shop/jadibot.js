@@ -1,5 +1,5 @@
 const jadibut = () =>{
-return`╭──「 📖  *PRICE JADIBOT*」
+return`╭──「 📖  *RIKKA JADIBOT*」
 │
 ├ • *Test Jadibot [30-60m]*
 │
@@ -25,7 +25,7 @@ return`╭──「 📖  *PRICE JADIBOT*」
 ├─ 「 📝  *NOTES* 」
 │
 │ ⤷ _Tidak perlu termux_
-│ ⤷ _Minat? Hubungi 0887435047326_
+│ ⤷ _Minat? Hubungi 6285751657737_
 │
 ╰──「 *Thank's* 」
 `
